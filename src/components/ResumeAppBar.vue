@@ -34,8 +34,8 @@ function handleGithub() {
               />
             </var-col>
             <var-col direction="column" :span="16" :xs="24">
-              <div class="resume-app-bar-name">你的名字</div>
-              <div class="resume-app-bar-job">期望的岗位</div>
+              <div class="resume-app-bar-name">高文斌</div>
+              <div class="resume-app-bar-job">前端专家/前端经理</div>
               <div class="resume-app-bar-description">
                 介绍一下你自己，真诚一点，不要过分谦虚，也不要张狂。
                 介绍一下你自己，真诚一点，不要过分谦虚，也不要张狂。
