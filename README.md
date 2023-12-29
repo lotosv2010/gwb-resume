@@ -1,43 +1,29 @@
 # VARLET RESUME
 
-English | [中文](https://github.com/varletjs/varlet-resume/blob/main/README.zh-CN.md)
-
 A resume template based on [Varlet](https://github.com/varletjs/varlet)
 
-## Try it Now!
+## Try it Now
 
 ### Online Preview
 
-[Varlet Resume Online Preview](https://varletjs.github.io/varlet-resume/)
-
-### Github Template
-
-[Create a repo from this template on GitHub.](https://github.com/varletjs/varlet-resume/generate)
-
-### Clone to local
-
-```
-npx degit varletjs/varlet-resume my-resume
-cd my-resume
-pnpm i
-```
+[gwb Resume Online Preview](lotosv2010.github.io/gwb-resume/)
 
 ### Usage
 
 #### Development
 
-```
+```shell
 pnpm dev
 ```
 
 #### Build
 
-```
+```shell
 pnpm build
 ```
 
 #### Preview
 
-```
+```shell
 pnpm preview
 ```
